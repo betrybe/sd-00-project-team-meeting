@@ -1,0 +1,18 @@
+{
+  "requirements": [{
+    "description": "Implemente uma função que retorne o valor do primeiro elemento",
+    "bonus": false
+  }, {
+    "description": "Implemente uma função que realize a soma de dois números inteiros",
+    "bonus": false
+  }, {
+    "description": "Implemente uma função que realize a subtração de dois números inteiros",
+    "bonus": false
+  }, {
+    "description": "Implemente uma função que realize a divisão de dois números inteiros",
+    "bonus": false
+  }, {
+    "description": "Implemente uma função que faça a sequência de Fibonacci",
+    "bonus": true
+  }]
+}

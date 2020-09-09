@@ -11,9 +11,9 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 ### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone git@github.com:betrybe/sd-0x-projet-team-meeting.git`.
+  * `git clone git@github.com:betrybe/sd-00-project-team-meeting.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `sd-0x-projet-team-meeting`
+    * `sd-00-projet-team-meeting`
 
 2. Instale as dependências
   * `npm install`

@@ -15,10 +15,13 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   * Entre na pasta do repositório que você acabou de clonar:
     * `sd-0x-projet-team-meeting`
 
-2. Instale as dependências [**Caso existam**]
+2. Instale as dependências
   * `npm install`
+  
+3. Execute os testes localmente
+  * `npm test`
 
-3. Crie uma branch a partir da branch `master`
+4. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
     * Exemplo: `git branch`
   * Se não estiver, mude para a branch `master`
@@ -27,7 +30,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     * Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
     * Exemplo: `git checkout -b joaozinho-project-team-meeting`
 
-4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
+5. Adicione as mudanças ao _stage_ do Git e faça um `commit`
   * Verifique que as mudanças ainda não estão no _stage_
     * Exemplo: `git status` (deve aparecer listada a pasta _joaozinho_ em vermelho)
   * Adicione o novo arquivo ao _stage_ do Git
@@ -39,10 +42,10 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
         * `git commit -m 'iniciando o projeto x'` (fazendo o primeiro commit)
         * `git status` (deve aparecer uma mensagem tipo _nothing to commit_ )
 
-5. Adicione a sua branch com o novo `commit` ao repositório remoto
+6. Adicione a sua branch com o novo `commit` ao repositório remoto
   * Usando o exemplo anterior: `git push -u origin joaozinho-project-team-meeting`
 
-6. Crie um novo `Pull Request` _(PR)_
+7. Crie um novo `Pull Request` _(PR)_
   * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/betrybe/sd-0x-projet-team-meeting/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**

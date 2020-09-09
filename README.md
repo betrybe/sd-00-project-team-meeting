@@ -68,7 +68,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 ### Data de Entrega
 
-O projeto tem até a seguinte data: `DD/MM/YYYY - 14:00h`. Para ser entregue a avaliação final.
+O projeto tem até a seguinte data: `11/09/2020 - 14:00h` para ser corrigido com o critério normal, após essa data, adotaremos o critério de recuperação.
 
 
 ## Requisitos do projeto

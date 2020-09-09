@@ -46,13 +46,13 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   * Usando o exemplo anterior: `git push -u origin joaozinho-project-team-meeting`
 
 7. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/betrybe/sd-0x-projet-team-meeting/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/betrybe/sd-00-projet-team-meeting/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/betrybe/sd-0x-projet-team-meeting/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/betrybe/sd-00-projet-team-meeting/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
 
@@ -165,8 +165,6 @@ Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus co
   * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
 
   * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
-
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `betrybe/students-sd-0x`.
 
 Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 

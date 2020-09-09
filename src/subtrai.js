@@ -1,3 +1,5 @@
-const subtrai = () => {};
+const subtrai = (a,b) => {
+    return a - b;
+};
 
 module.exports = subtrai;

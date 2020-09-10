@@ -1,3 +1,3 @@
-const primeiro = (a, b) => a;
+const primeiro = (a, b) => a
 
 module.exports = primeiro;

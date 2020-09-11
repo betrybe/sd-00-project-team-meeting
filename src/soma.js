@@ -1,3 +1,3 @@
-const soma = (primeiro, segundo) => primeiro + segundo;
+const soma = (primeiro, segundo) => parseInt(primeiro) + parseInt(segundo);
 
 module.exports = soma;

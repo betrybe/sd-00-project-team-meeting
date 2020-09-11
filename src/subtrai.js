@@ -1,3 +1,3 @@
-const subtrai = (primeiro, segundo) => primeiro - segundo;
+const subtrai = (primeiro, segundo) => parseInt(primeiro) - parseInt(segundo);
 
 module.exports = subtrai;

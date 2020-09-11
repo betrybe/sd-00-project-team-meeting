@@ -3,10 +3,9 @@ const fibonacci = (numero) => {
         return 1
     }
 
-    let [ultimo, penultimo] = [2,1];
-    let resultado;
+    let [resultado, ultimo, penultimo] = [2,2,1];
 
-    for (let i = 2; i <= parseInt(numero); i++) {
+    for (let i = 2; i < parseInt(numero); i++) {
         resultado = ultimo + penultimo;
         penultimo = ultimo;
         ultimo = resultado;
